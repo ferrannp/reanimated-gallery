@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;;AAMA","sourcesContent":["import {\n  useGalleryItem,\n  GalleryOverlay,\n  GalleryProvider,\n} from './Provider';\n\nimport { useInit } from './useInit';\n\nexport {\n  useInit as useGalleryInit,\n  useGalleryItem,\n  GalleryOverlay,\n  GalleryProvider,\n};\n"]}
